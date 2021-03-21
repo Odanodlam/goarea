@@ -19,4 +19,4 @@ func _TrianguloEq(base, altura float64) float64 {
 	return (base * altura) / 2
 }
 
-// é assim que funcionam as coisas
+// testando mais um commit
